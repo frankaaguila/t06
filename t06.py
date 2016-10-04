@@ -1,3 +1,4 @@
+#Clase Tarea06 :)
 class Tarea06():
 
     def __init__(self):
